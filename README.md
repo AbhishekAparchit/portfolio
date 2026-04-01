@@ -1,59 +1,101 @@
-# PortfolioFrontend
+# 👨‍💻 Abhishek Maurya - Portfolio
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
+Welcome to my personal portfolio website!
+This project showcases my skills, projects, and experience as a developer.
 
-## Development server
+---
 
-To start a local development server, run:
+## 🌐 Live Demo
+
+🔗 https://abhishek-portfolio.netlify.app
+
+---
+
+## 📌 About Me
+
+Hi, I'm **Abhishek Maurya**, a passionate developer skilled in building modern web and mobile applications.
+I love creating clean UI, scalable backend systems, and real-world applications.
+
+---
+
+## 🛠️ Tech Stack
+
+* ⚡ Angular
+* 💻 TypeScript
+* 🎨 HTML5, CSS3
+* 🔥 Firebase
+* 📱 Android (Java)
+
+---
+
+## ✨ Features
+
+* 📱 Fully Responsive Design
+* 🎯 Modern UI/UX
+* ⚡ Fast Performance
+* 📂 Projects Showcase
+* 📩 Contact Form (Firebase integrated)
+
+---
+
+## 📂 Project Structure
+
+src/
+├── app/
+│   ├── components/
+│   ├── services/
+│   └── pages/
+├── assets/
+└── environments/
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/AbhishekAparchit/portfolio.git
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run locally
 
 ```bash
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## 📸 Screenshots
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+(Add your project screenshots here)
 
-```bash
-ng generate component component-name
-```
+---
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 📬 Contact Me
 
-```bash
-ng generate --help
-```
+* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 💼 LinkedIn: (add link)
+* 🐙 GitHub: https://github.com/AbhishekAparchit
 
-## Building
+---
 
-To build the project run:
+## ⭐ Show your support
 
-```bash
-ng build
-```
+If you like this project, please give it a ⭐ on GitHub!
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+---
 
-## Running unit tests
+## 🧠 Future Improvements
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+* Dark/Light Mode 🌙
+* Blog Section ✍️
+* More animations 🎬
 
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+---
