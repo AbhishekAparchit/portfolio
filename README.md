@@ -50,34 +50,6 @@ src/
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/AbhishekAparchit/portfolio.git
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Run locally
-
-```bash
-ng serve
-```
-
----
-
-## 📸 Screenshots
-
-(Add your project screenshots here)
-
----
-
 ## 📬 Contact Me
 
 * 📧 Email: [your-mauryaabhishek7817@gmail.com](mauryaabhishek7817@gmail.com)
@@ -89,13 +61,5 @@ ng serve
 ## ⭐ Show your support
 
 If you like this project, please give it a ⭐ on GitHub!
-
----
-
-## 🧠 Future Improvements
-
-* Dark/Light Mode 🌙
-* Blog Section ✍️
-* More animations 🎬
 
 ---
