@@ -1,0 +1,25 @@
+<section class="contact-section">
+  <h2 class="contact-title">📩 Contact Me</h2>
+
+  <div class="contact-container">
+
+    <!-- LEFT INFO -->
+    <div class="contact-info">
+      <h3>Let's Connect</h3>
+      <p>I’m open to work and collaborations. Feel free to reach out!</p>
+
+      <p><strong>Email:</strong> abhishek&#64;email.com</p>
+      <p><strong>Phone:</strong> +91 000XXXX</p>
+      <p><strong>Location:</strong> India</p>
+    </div>
+
+    <!-- RIGHT FORM -->
+    <form [formGroup]="contactForm" (ngSubmit)="sendMessage()" class="contact-form">
+      <input type="text" formControlName="name" placeholder="Your Name" required>
+      <input type="email" formControlName="email" placeholder="Your Email" required>
+      <textarea formControlName="message" rows="5" placeholder="Your Message"></textarea>
+      <button type="submit">Send Message 🚀</button>
+    </form>
+
+  </div>
+</section>
