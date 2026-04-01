@@ -7,7 +7,7 @@ This project showcases my skills, projects, and experience as a developer.
 
 ## 🌐 Live Demo
 
-🔗[abhishek-portfolio-12.netlify.app](https://abhishek-portfolio-12.netlify.app/home)
+🔗🔗 https://abhishek-portfolio-12.netlify.app/ ✅
 
 ---
 
