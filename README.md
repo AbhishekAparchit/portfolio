@@ -7,7 +7,7 @@ This project showcases my skills, projects, and experience as a developer.
 
 ## 🌐 Live Demo
 
-🔗 https://abhishek-portfolio.netlify.app
+🔗abhishek-portfolio-12.netlify.app
 
 ---
 
@@ -80,8 +80,8 @@ ng serve
 
 ## 📬 Contact Me
 
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* 💼 LinkedIn: (add link)
+* 📧 Email: [your-mauryaabhishek7817@gmail.com](mauryaabhishek7817@gmail.com)
+* 💼 LinkedIn: (https://www.linkedin.com/in/abhishek-maurya96/)
 * 🐙 GitHub: https://github.com/AbhishekAparchit
 
 ---
